@@ -1,0 +1,22 @@
+{
+  "name": "cpconectorpipedrive",
+  "version": "1.0.0",
+  "description": "Conector pipedrive Cyberpolos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbonfim/cpConectorPipedrive.git"
+  },
+  "author": "Cyberpolos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbonfim/cpConectorPipedrive/issues"
+  },
+  "homepage": "https://github.com/mbonfim/cpConectorPipedrive#readme",
+  "dependencies": {
+    "pipedrive": "^6.0.4"
+  }
+}
